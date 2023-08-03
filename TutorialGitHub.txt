@@ -1,0 +1,5 @@
+git init (inicia um repositorio git na pasta )
+git status (mostra o que foi adicionado para stage)
+git add . (adiciona todos os arquivos para stage, o ponto diz que é todos)
+git commit -a -m "mensagem" (comita os arquivos para o git)
+git push (envia os arquivos comitados)
